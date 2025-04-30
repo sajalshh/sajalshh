@@ -40,7 +40,7 @@ Welcome to my GitHub profile! I’m passionate about building scalable web appli
 <img src="https://media.tenor.com/jJt6Q1u_kGcAAAAC/naruto-team-7.gif" width="220" alt="Naruto Team 7 GIF">
 ---
 
-## 🐍 GitHub Snake Contribution Animation
+## Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sajalshh&theme=radical" width="100%"/>
 
