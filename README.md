@@ -37,7 +37,7 @@ Welcome to my GitHub profile! I’m passionate about building scalable web appli
 
 ## 🌟 Anime Corner
 
-<img src="https://i.imgur.com/CfUodBd.gif" width="220" alt="Kakashi Book">
+<img src="https://i.imgur.com/IsWXPzz.gif" width="220" alt="Kakashi Cool Pose">
 
 
 ---
