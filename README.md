@@ -37,7 +37,7 @@ Welcome to my GitHub profile! I’m passionate about building scalable web appli
 
 ## 🌟 Anime Corner
 
-<img src="https://media.tenor.com/X-uUoz0Z6DIAAAAC/goku-super-saiyan.gif" width="220" alt="Goku Super Saiyan">
+<img src="https://media.tenor.com/VZcAfsYdfGsAAAAd/sharingan.gif" width="220" alt="Sharingan">
 ---
 
 ## Contribution Graph
