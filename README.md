@@ -42,7 +42,8 @@ Welcome to my GitHub profile! I’m passionate about building scalable web appli
 
 ## 🐍 GitHub Snake Contribution Animation
 
-<img src="https://raw.githubusercontent.com/sajalshh/github-readme-activity-graph/master/graph.svg" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sajalshh&theme=radical" width="100%"/>
+
 
 
 ---
