@@ -37,7 +37,8 @@ Welcome to my GitHub profile! I’m passionate about building scalable web appli
 
 ## 🌟 Anime Corner
 
-<img src="https://i.imgur.com/Nz3gK0f.gif" width="220" alt="Naruto Running">
+<img src="https://i.imgur.com/CfUodBd.gif" width="220" alt="Kakashi Book">
+
 
 ---
 
