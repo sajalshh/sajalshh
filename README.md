@@ -42,7 +42,8 @@ Welcome to my GitHub profile! I’m passionate about building scalable web appli
 
 ## 🐍 GitHub Snake Contribution Animation
 
-![snake gif](https://github.com/sajalshh/sajalshh/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/sajalshh/github-readme-activity-graph/master/graph.svg" width="100%"/>
+
 
 ---
 
