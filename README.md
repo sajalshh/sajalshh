@@ -37,8 +37,7 @@ Welcome to my GitHub profile! I’m passionate about building scalable web appli
 
 ## 🌟 Anime Corner
 
-<img src="https://media.tenor.com/KRqa6t5UoWkAAAAC/kakashi-naruto.gif" width="200" alt="Kakashi GIF from Naruto">
-
+<img src="https://media.tenor.com/jJt6Q1u_kGcAAAAC/naruto-team-7.gif" width="220" alt="Naruto Team 7 GIF">
 ---
 
 ## 🐍 GitHub Snake Contribution Animation
