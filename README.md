@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm passionate about building scalable full-stack 
 
 ## 📊 GitHub Stats
 
-![Sajal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sajaldev&show_icons=true&theme=radical)
+![Sajal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sajalshh&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sajaldev&layout=compact&theme=radical)
 
 ---
