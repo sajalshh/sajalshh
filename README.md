@@ -44,7 +44,8 @@ Welcome to my GitHub profile! I’m passionate about building scalable web appli
 
 ## Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sajalshh&theme=radical" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sajalshh&theme=radical" />
+
 
 
 
