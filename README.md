@@ -37,7 +37,7 @@ Welcome to my GitHub profile! I’m passionate about building scalable web appli
 
 ## 🌟 Anime Corner
 
-<img src="https://media.tenor.com/jJt6Q1u_kGcAAAAC/naruto-team-7.gif" width="220" alt="Naruto Team 7 GIF">
+<img src="https://media.tenor.com/X-uUoz0Z6DIAAAAC/goku-super-saiyan.gif" width="220" alt="Goku Super Saiyan">
 ---
 
 ## Contribution Graph
