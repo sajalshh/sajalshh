@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I’m passionate about building scalable web appli
 
 
 [![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aadi8103b@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/](https://www.linkedin.com/in/sajal-shrivastava-009912250/))
+[![LinkedIn]([https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/](https://www.linkedin.com/in/sajal-shrivastava-009912250/)](https://www.linkedin.com/in/sajal-shrivastava-009912250/))
 
 ---
 
