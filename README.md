@@ -57,6 +57,14 @@ Multi-tenant platform digitizing the full rental lifecycle for letting agencies 
 
 ![Sajal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sajalshh&show_icons=true&theme=default&count_private=true)
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sajalshh&theme=github-compact" />
+
 ---
 
-*Currently: final-year B.Tech CS (GGSIPU, Delhi — May 2026) · Open to remote Full-Stack / AI Engineering roles.*
+## 🌟 Anime Corner
+
+<img src="https://i.imgur.com/IsWXPzz.gif" width="220" alt="Kakashi Cool Pose">
+
+---
+
+*Graduate: (GGSIPU, Delhi — May 2026) · Open to remote Full-Stack / AI Engineering roles.*
